@@ -13,18 +13,18 @@
 - [Credits](#Credits)
 
 ## Overview
-The Most undetected KahootBot out there. With low flood rate, the hoast will not detect it and random names so the KahootAntiBot will not be triggered.
+Simple Binary calculator. Try to understand the code behind it, it helped a LOT to understand the logic behind binary to decimal and vice versa calculations.
 
 ## Installation
 ### Source code
-- Run ```pip install selenium``` (Need root access)
+- Download the python code
 
 ## Introduction 
-- A KahootBot to flood Kahoot lobbys
+- Start the python code like any other python code. No library needed.
 
 ## Features
--  It runs in the CMD
--  Not detected by KahootAntiBot
+-  It runs 100% in python
+-  Easy to understand and learn the concept behind Binary
 
 ## Issues & bug reports
 Just fill an issue and describe it. We'll check it ASAP!
