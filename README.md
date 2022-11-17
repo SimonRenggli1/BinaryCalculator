@@ -1,5 +1,6 @@
 <div align="center">
 <br/>
+<img="https://imgs.search.brave.com/BSw9iX3tgcp0PRSxlJW14Pi1Dn9pYQRgCBFWFHLws-0/rs:fit:885:597:1/g:ce/aHR0cHM6Ly9zYXZl/ZGVsZXRlLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxOS8x/MS9CaW5hcnktTnVt/YmVyLUNhbGN1bGF0/b3IucG5n">
 <h1>BinaryCalculator</h1>
 <br/>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/built%20with-Python3-green.svg" alt="built with Python3" /></a>
